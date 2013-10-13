@@ -1,0 +1,2 @@
+// -I causes looking for files in this directory.
+g++ -I ./ -o StringRev StringRev.cpp
