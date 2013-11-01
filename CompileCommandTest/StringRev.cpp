@@ -12,7 +12,7 @@ int main(int argc, char* argv[])
 	}
 	else
 	{
-		cout << "no args brah" << endl;
+		cout << "string argument required" << endl;
 	}
 	return 0;
 }
