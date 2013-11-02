@@ -1,0 +1,1 @@
+javascript:(function(){setInterval(function(){ document.getElementById('button-vote-positive').click(); },10000);})();
